@@ -214,6 +214,12 @@
                     }
                 }
             ],
+            "payment_additional_info": [
+                {
+                    "key": "raw_details_info",
+                    "value": "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":63088,\"authorizationCode\":\"122367\",\"paymentTypeCode\":\"VN\",\"accountingDate\":\"0801\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"72872\",\"buyOrder\":\"2000000005\",\"cardNumber\":\"1495\",\"cardDetail\":{\"card_number\":\"1495\"},\"transactionDate\":\"2022-08-01T15:29:55.645Z\",\"balance\":null}"
+                }
+            ],
             "applied_taxes": [],
             "item_applied_taxes": [],
             "checkout_tipo_comprobante": "Factura",
