@@ -205,6 +205,12 @@
             "additional_information": [
                 "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":63319,\"authorizationCode\":\"004255\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0805\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"72953\",\"buyOrder\":\"2000000011\",\"cardNumber\":\"7093\",\"cardDetail\":{\"card_number\":\"7093\"},\"transactionDate\":\"2022-08-05T13:20:20.820Z\",\"balance\":null}"
             ],
+            "amount_ordered": 63319,
+            "amount_paid": 63319,
+            "base_amount_ordered": 63319,
+            "base_amount_paid": 63319,
+            "base_shipping_amount": 10981,
+            "base_shipping_captured": 10981,
             "cc_exp_year": "0",
             "cc_last4": null,
             "cc_ss_start_month": "0",
